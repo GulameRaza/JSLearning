@@ -32,3 +32,14 @@ const myFunction = function(){
 console.log(typeof myFunction);
 console.log(typeof objExample);
 console.log(typeof heros);
+
+// Memory
+// +++++++++++++++_+_+_+_+_+_+_+_+_++++++++++++++++_+_+_+_+_+_+++++++++++++++++++++++_+_+_+_+_+++++++++++++++++++++++++
+
+//2 types
+
+//Stack and Heap
+// Im primitive type Stack memory
+// In non-primitive type heap memory
+
+//Example
